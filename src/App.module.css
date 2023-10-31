@@ -1,0 +1,17 @@
+.App {
+    text-align: center;
+  }
+  
+.btn{
+padding:15px ;
+margin:10px ;
+font-size: 17px;
+background-color: rgb(172, 218, 183);
+color: rgb(240, 247, 253);
+
+border: none;
+}
+.btn:hover{
+    background-color:rgb(172, 218, 183);
+    color:rgb(86, 41, 199);
+}
